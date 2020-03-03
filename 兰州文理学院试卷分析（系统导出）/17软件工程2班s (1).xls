@@ -7,16 +7,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta http-equiv=Content-Type content="text/html; charset=gb2312">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 11">
-<link rel=File-List href="637150475980781250.files/filelist.xml">
-<link rel=Edit-Time-Data href="637150475980781250.files/editdata.mso">
-<link rel=OLE-Object-Data href="637150475980781250.files/oledata.mso">
+<link rel=File-List href="637151530205312500.files/filelist.xml">
+<link rel=Edit-Time-Data href="637151530205312500.files/editdata.mso">
+<link rel=OLE-Object-Data href="637151530205312500.files/oledata.mso">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>xky</o:Author>
   <o:LastAuthor>Administrator</o:LastAuthor>
   <o:LastPrinted>2005-01-26T07:24:23Z</o:LastPrinted>
   <o:Created>2002-05-27T17:51:00Z</o:Created>
-  <o:LastSaved>2020-01-19T08:19:59Z</o:LastSaved>
+  <o:LastSaved>2020-01-20T13:37:01Z</o:LastSaved>
   <o:Company>zydn</o:Company>
   <o:Version>11.9999</o:Version>
  </o:DocumentProperties>
@@ -300,7 +300,7 @@ rt
  </tr>
  <tr height=15 style='height:11.25pt'>
   <td colspan=3 height=15 style='height:11.25pt'>开课学院：数字媒体学院</td>
-  <td colspan=4>行政班：17软件工程1班</td>
+  <td colspan=4>行政班：17软件工程2班</td>
   <td colspan=2></td>
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
@@ -311,7 +311,7 @@ rt
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=18 style='mso-height-source:userset;height:13.5pt'>
-  <td colspan=9 height=18 class=xl35 style='height:13.5pt'>选课课号：(2019-2020-1)-77700388-2000241-1</td>
+  <td colspan=9 height=18 class=xl35 style='height:13.5pt'>选课课号：(2019-2020-1)-77700388-2000241-2</td>
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
  <tr class=xl24 height=18 style='mso-height-source:userset;height:13.5pt'>
@@ -328,44 +328,440 @@ rt
  </tr>
  <tr height=15 style='height:11.25pt'>
   <td height=15 class=xl37 style='height:11.25pt;border-top:none' x:str="'1">1</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12157139117">12157139117</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'苏明亮">苏明亮</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177139230">12177139230</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'余飞鸿">余飞鸿</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'81">81</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'22">22</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'81">81</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
   <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'2">2</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177358323">12177358323</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'白瑞东">白瑞东</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'90">90</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405202">12177405202</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'杨宁昊">杨宁昊</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'88">88</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'89">89</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
   <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'3">3</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405101">12177405101</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'吕青">吕青</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405203">12177405203</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'李鹏翔">李鹏翔</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'4">4</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405204">12177405204</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'李娟">李娟</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'5">5</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405205">12177405205</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'邓佳阳">邓佳阳</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'30">30</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'45">45</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'41">41</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'4">4</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405102">12177405102</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'杨忠意">杨忠意</td>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'6">6</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405206">12177405206</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'贾静">贾静</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'72">72</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'74">74</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'7">7</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405207">12177405207</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'罗维桓">罗维桓</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'76">76</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'74">74</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'8">8</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405208">12177405208</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'朱生涛">朱生涛</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'67">67</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'9">9</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405209">12177405209</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'任妍">任妍</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'76">76</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'71">71</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'10">10</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405210">12177405210</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'陈超超">陈超超</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'32">32</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'37">37</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'11">11</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405211">12177405211</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'蒲鹏飞">蒲鹏飞</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'12">12</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405212">12177405212</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'牛子良">牛子良</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'13">13</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405213">12177405213</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'黄毅">黄毅</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'14">14</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405214">12177405214</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'崔金鹏">崔金鹏</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'15">15</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405215">12177405215</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'姚戛">姚戛</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'76">76</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'16">16</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405216">12177405216</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'李文婷">李文婷</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'17">17</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405217">12177405217</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'张凡">张凡</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'54">54</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'53">53</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'18">18</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405218">12177405218</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'于心怡">于心怡</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'71">71</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'65">65</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'19">19</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405220">12177405220</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'景鹏">景鹏</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'20">20</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405221">12177405221</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'张健健">张健健</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'90">90</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'77">77</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'81">81</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'21">21</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405222">12177405222</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'高慧青">高慧青</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'22">22</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405223">12177405223</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'孟富强">孟富强</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'40">40</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'56">56</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'51">51</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'23">23</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405224">12177405224</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'冯明权">冯明权</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'65">65</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'64">64</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'24">24</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405225">12177405225</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'陈焘">陈焘</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'53">53</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'52">52</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'25">25</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405226">12177405226</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'许全">许全</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'56">56</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'54">54</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'26">26</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405227">12177405227</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'史鹏华">史鹏华</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'27">27</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405228">12177405228</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'任瑜">任瑜</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'75">75</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'28">28</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405229">12177405229</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'郑宏杰">郑宏杰</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'53">53</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'29">29</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405230">12177405230</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'程志杰">程志杰</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'64">64</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'69">69</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'30">30</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405231">12177405231</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'李文强">李文强</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'40">40</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'38">38</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'39">39</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'31">31</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405232">12177405232</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'康飞飞">康飞飞</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'32">32</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405233">12177405233</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'王兵兵">王兵兵</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'52">52</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'33">33</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405234">12177405234</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'王鑫">王鑫</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'90">90</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'76">76</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'34">34</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405235">12177405235</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'李东峰">李东峰</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'85">85</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'84">84</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'35">35</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405236">12177405236</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'刘桃红">刘桃红</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'100">100</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'96">96</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'97">97</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'36">36</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405237">12177405237</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'冉全立">冉全立</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'22">22</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'30">30</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'37">37</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405238">12177405238</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'赵克函">赵克函</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'90">90</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
@@ -375,237 +771,69 @@ rt
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'5">5</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405103">12177405103</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'陈启瑞">陈启瑞</td>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'38">38</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405239">12177405239</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'孙晓婷">孙晓婷</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'53">53</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'6">6</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405104">12177405104</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'刘佳昊">刘佳昊</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'64">64</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'7">7</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405105">12177405105</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'魏昱">魏昱</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'39">39</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405240">12177405240</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'陈晴霞">陈晴霞</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'64">64</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'8">8</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405106">12177405106</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'王博">王博</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'30">30</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'46">46</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'41">41</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'9">9</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405107">12177405107</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'刘旭鸿">刘旭鸿</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'33">33</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'10">10</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405109">12177405109</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'安婷">安婷</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'90">90</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'72">72</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'77">77</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'11">11</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405110">12177405110</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'张景安">张景安</td>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'40">40</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405241">12177405241</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'李贵花">李贵花</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'67">67</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'12">12</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405111">12177405111</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'赵锦楠">赵锦楠</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'90">90</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'81">81</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'84">84</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'13">13</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405112">12177405112</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'缑田甜">缑田甜</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'90">90</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'69">69</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'75">75</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'72">72</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'14">14</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405113">12177405113</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'夏军乔">夏军乔</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'41">41</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405242">12177405242</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'王帆">王帆</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'93">93</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'86">86</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'15">15</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405114">12177405114</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'赵东亮">赵东亮</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'16">16</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405115">12177405115</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'申朝韦">申朝韦</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'30">30</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'81">81</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'17">17</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405116">12177405116</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'程进">程进</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'18">18</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405117">12177405117</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'柴宁宁">柴宁宁</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'19">19</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405119">12177405119</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'丁砺锋">丁砺锋</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'26">26</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'20">20</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405120">12177405120</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'王颖">王颖</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'71">71</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'65">65</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'67">67</td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'42">42</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405243">12177405243</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'赵娜娜">赵娜娜</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'87">87</td>
+  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'85">85</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'21">21</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405121">12177405121</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'杨立峰">杨立峰</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'67">67</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'22">22</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405122">12177405122</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'陈琳">陈琳</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'40">40</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'48">48</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'46">46</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'23">23</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405123">12177405123</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'李嘉良">李嘉良</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'34">34</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'24">24</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405124">12177405124</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'张乐">张乐</td>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'43">43</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405244">12177405244</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'赵玲娟">赵玲娟</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
@@ -615,314 +843,50 @@ rt
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'25">25</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405125">12177405125</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'张政">张政</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'26">26</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405126">12177405126</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'包永刚">包永刚</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'27">27</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405127">12177405127</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'赵梅莉">赵梅莉</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'28">28</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405128">12177405128</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'胡物华">胡物华</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'29">29</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405129">12177405129</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'付小强">付小强</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'30">30</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405130">12177405130</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'杨力">杨力</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'31">31</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405131">12177405131</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'郑蓉">郑蓉</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'73">73</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'32">32</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405132">12177405132</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'赵金龙">赵金龙</td>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'44">44</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'24197407401">24197407401</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'王亚军">王亚军</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'51">51</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'57">57</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'33">33</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405133">12177405133</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'白路通">白路通</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'查无此人">查无此人</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'34">34</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405134">12177405134</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'余佳宁">余佳宁</td>
+  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'45">45</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'24197407402">24197407402</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'成正杰">成正杰</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'64">64</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'35">35</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405135">12177405135</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'李博博">李博博</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'71">71</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'76">76</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'74">74</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'36">36</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405136">12177405136</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'郑玲">郑玲</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'73">73</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'37">37</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405137">12177405137</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'孔鹏瞾">孔鹏瞾</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'37">37</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'38">38</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405138">12177405138</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'王荣">王荣</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'67">67</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'71">71</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'39">39</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405139">12177405139</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'李辉港">李辉港</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'查无此人">查无此人</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'40">40</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405140">12177405140</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'赵倩">赵倩</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'41">41</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405141">12177405141</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'郑斌辉">郑斌辉</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'75">75</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'71">71</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'42">42</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405142">12177405142</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'王德华">王德华</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'67">67</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'65">65</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'43">43</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405143">12177405143</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'徐军娟">徐军娟</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'69">69</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'44">44</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405144">12177405144</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'王林成">王林成</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'45">45</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405145">12177405145</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'王先豆">王先豆</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'65">65</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
   <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'46">46</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'12177405146">12177405146</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'田福申">田福申</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'24197407403">24197407403</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'岳亮">岳亮</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'70">70</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'46">46</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'53">53</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=16 style='height:12.0pt'>
   <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'47">47</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'24197407301">24197407301</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'杜飞强">杜飞强</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'50">50</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'75">75</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'68">68</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'48">48</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'24197407302">24197407302</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'禹娜">禹娜</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'80">80</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'24197407404">24197407404</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'张康">张康</td>
   <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'66">66</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'49">49</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'24197407303">24197407303</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'魏凯">魏凯</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'62">62</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=16 style='height:12.0pt'>
-  <td height=16 class=xl37 style='height:12.0pt;border-top:none' x:str="'50">50</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'24197407304">24197407304</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'黄涛">黄涛</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'60">60</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'64">64</td>
-  <td class=xl37 style='border-top:none;border-left:none'>　</td>
-  <td class=xl37 style='border-top:none;border-left:none' x:str="'63">63</td>
+  <td class=xl37 style='border-top:none;border-left:none' x:str="'61">61</td>
   <td class=xl37 style='border-top:none;border-left:none'>　</td>
   <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
  </tr>
@@ -947,36 +911,36 @@ rt
   <td colspan=3 height=15 class=xl31 style='border-right:.5pt solid black;
   height:11.25pt'>90分以上（优秀）</td>
   <td colspan=3 class=xl33 style='border-right:.5pt solid black;border-left:
-  none'>0人</td>
+  none'>1人</td>
   <td colspan=3 class=xl38 style='border-right:.5pt solid black;border-left:
-  none' x:num="0">0.00%</td>
+  none' x:num="2.1299999999999999E-2">2.13%</td>
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=15 style='height:11.25pt'>
   <td colspan=3 height=15 class=xl31 style='border-right:.5pt solid black;
   height:11.25pt'>80-89分（良好）</td>
   <td colspan=3 class=xl33 style='border-right:.5pt solid black;border-left:
-  none'>4人</td>
+  none'>6人</td>
   <td colspan=3 class=xl38 style='border-right:.5pt solid black;border-left:
-  none' x:num="8.3299999999999999E-2">8.33%</td>
+  none' x:num="0.12770000000000001">12.77%</td>
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=15 style='height:11.25pt'>
   <td colspan=3 height=15 class=xl31 style='border-right:.5pt solid black;
   height:11.25pt'>70-79分（中等）</td>
   <td colspan=3 class=xl33 style='border-right:.5pt solid black;border-left:
-  none'>9人</td>
+  none'>6人</td>
   <td colspan=3 class=xl38 style='border-right:.5pt solid black;border-left:
-  none' x:num="0.1875">18.75%</td>
+  none' x:num="0.12770000000000001">12.77%</td>
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=15 style='height:11.25pt'>
   <td colspan=3 height=15 class=xl31 style='border-right:.5pt solid black;
   height:11.25pt'>60-69分（及格）</td>
   <td colspan=3 class=xl33 style='border-right:.5pt solid black;border-left:
-  none'>26人</td>
+  none'>25人</td>
   <td colspan=3 class=xl38 style='border-right:.5pt solid black;border-left:
-  none' x:num="0.54169999999999996">54.17%</td>
+  none' x:num="0.53190000000000004">53.19%</td>
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=15 style='height:11.25pt'>
@@ -985,7 +949,7 @@ rt
   <td colspan=3 class=xl33 style='border-right:.5pt solid black;border-left:
   none'>9人</td>
   <td colspan=3 class=xl38 style='border-right:.5pt solid black;border-left:
-  none' x:num="0.1875">18.75%</td>
+  none' x:num="0.1915">19.15%</td>
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=15 style='height:11.25pt'>
@@ -1001,7 +965,7 @@ rt
   <td colspan=3 height=15 class=xl31 style='border-right:.5pt solid black;
   height:11.25pt'>合计</td>
   <td colspan=3 class=xl33 style='border-right:.5pt solid black;border-left:
-  none'>48人</td>
+  none'>47人</td>
   <td colspan=3 class=xl38 style='border-right:.5pt solid black;border-left:
   none' x:num="1">100.00%</td>
   <td colspan=7 style='mso-ignore:colspan'></td>
@@ -1013,7 +977,7 @@ rt
   <td colspan=3 class=xl33 style='border-right:.5pt solid black;border-left:
   none'>免修0人</td>
   <td colspan=3 class=xl33 style='border-right:.5pt solid black;border-left:
-  none'>实考48人 总人数 50人</td>
+  none'>实考47人 总人数 47人</td>
   <td colspan=7 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=15 style='height:11.25pt'>
