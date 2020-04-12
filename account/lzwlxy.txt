@@ -1,0 +1,5 @@
+vpn（统一身份认证登录）	:2000505/180015	https://vpn.luas.edu.cn/需要输入登录信息后重复登录一遍
+
+网络教学平台（学习通）	:2000505/xsq123	http://luas.fanya.chaoxing.com/portal
+
+旧教务管理系统		:2000254/xsq123	http://jw.luas.edu.cn或http://10-1-48-106.vpn.luas.edu.cn:8118/
