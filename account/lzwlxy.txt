@@ -1,4 +1,5 @@
-vpn（统一身份认证登录）	:2000505/180015	https://vpn.luas.edu.cn/需要输入登录信息后重复登录一遍
+vpn（统一身份认证登录）	:2000505/180015->Xsq!1234	https://vpn.luas.edu.cn/需要输入登录信息后重复登录一遍
+
 
 网络教学平台（学习通）	:2000505/xsq123	http://luas.fanya.chaoxing.com/portal
 
